@@ -417,3 +417,31 @@ http://bestever.vodiptv.org:83/live/237849426364/959338582673/376389.ts
 http://bestever.vodiptv.org:83/live/237849426364/959338582673/381407.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="french" tvg-logo="" tvg-country="FR" tvg-url="" group-title="France", TF1 SERIES
 http://bestever.vodiptv.org:83/live/237849426364/959338582673/384022.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="english" tvg-logo="" tvg-country="USA" tvg-url="" group-title="Netflix", Netflix Action
+http://bestever.vodiptv.org:83/live/237849426364/959338582673/386123.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="english" tvg-logo="" tvg-country="USA" tvg-url="" group-title="Netflix", Netflix Action +
+http://bestever.vodiptv.org:83/live/237849426364/959338582673/386124.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="english" tvg-logo="" tvg-country="USA" tvg-url="" group-title="Netflix", Netflix Anime 1
+http://bestever.vodiptv.org:83/live/237849426364/959338582673/386125.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="english" tvg-logo="" tvg-country="USA" tvg-url="" group-title="Netflix", Netflix Anime 2
+http://bestever.vodiptv.org:83/live/237849426364/959338582673/386126.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="english" tvg-logo="" tvg-country="USA" tvg-url="" group-title="Netflix", Netflix Comedy 1
+http://bestever.vodiptv.org:83/live/237849426364/959338582673/386127.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="english" tvg-logo="" tvg-country="USA" tvg-url="" group-title="Netflix", Netflix Comedy 2
+http://bestever.vodiptv.org:83/live/237849426364/959338582673/386128.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="english" tvg-logo="" tvg-country="USA" tvg-url="" group-title="Netflix", Netflix Drama 1
+http://bestever.vodiptv.org:83/live/237849426364/959338582673/386129.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="english" tvg-logo="" tvg-country="USA" tvg-url="" group-title="Netflix", Netflix Drama 2
+http://bestever.vodiptv.org:83/live/237849426364/959338582673/386130.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="english" tvg-logo="" tvg-country="USA" tvg-url="" group-title="Netflix", Netflix Horror
+http://bestever.vodiptv.org:83/live/237849426364/959338582673/386131.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="english" tvg-logo="" tvg-country="USA" tvg-url="" group-title="Netflix", Netflix Horror 1
+http://bestever.vodiptv.org:83/live/237849426364/959338582673/386132.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="english" tvg-logo="" tvg-country="USA" tvg-url="" group-title="Netflix", Netflix Horror 2
+http://bestever.vodiptv.org:83/live/237849426364/959338582673/386133.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="english" tvg-logo="" tvg-country="USA" tvg-url="" group-title="Netflix", Netflix Kids 1
+http://bestever.vodiptv.org:83/live/237849426364/959338582673/386135.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="english" tvg-logo="" tvg-country="USA" tvg-url="" group-title="Netflix", Netflix Kids 2
+http://bestever.vodiptv.org:83/live/237849426364/959338582673/386136.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="english" tvg-logo="" tvg-country="USA" tvg-url="" group-title="Netflix", Netflix Kids 3
+http://bestever.vodiptv.org:83/live/237849426364/959338582673/386137.ts
